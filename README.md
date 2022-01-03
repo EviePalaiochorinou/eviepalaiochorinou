@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello 👋 My name is Evie. 
+Welcome! 
 
-<!--
-**EviePalaiochorinou/eviepalaiochorinou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer.\
+Also, a yoga instructor & English teacher.\
+In London 🇬🇧
 
-Here are some ideas to get you started:
+- 👾 I turn coffee into code. 
+- 🧠 I am always learning new things!
+- 🌱 Proactive & super-organiser.
+- 🍄 I talk about yoga, sustainability, pop culture, Scandinavia, recipes & YouTube.
+- ⚡️ Currently learning GO.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Don't leave for tomorrow, what you can do today.\
+> – Greek saying
