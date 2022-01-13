@@ -9,7 +9,7 @@ In London 🇬🇧
 - 🧠 I am always learning new things!
 - 🌱 Proactive & super-organiser.
 - 🍄 I talk about yoga, sustainability, pop culture, Scandinavia, recipes & YouTube.
-- ⚡️ Currently learning GO.
+- ⚡️ Currently learning JavaScript + React.
 
 > Don't leave for tomorrow, what you can do today.\
 > – Greek saying
