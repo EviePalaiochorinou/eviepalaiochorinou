@@ -2,7 +2,7 @@
 Welcome! 
 
 I am a software developer.\
-Also, a yoga instructor & English teacher.\
+Also, a yoga instructor.\
 In London 🇬🇧
 
 - 👾 I turn coffee into code. 
