@@ -1,5 +1,4 @@
 # Hello 👋 My name is Evie. 
-Welcome! 
 
 I am a software developer.\
 Also, a yoga instructor.\
