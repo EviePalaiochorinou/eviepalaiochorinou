@@ -12,6 +12,3 @@ Find out more here:
 - ⚡️ Proactive, team-spirit & super-organiser.
 - 🍄 I talk about yoga, sustainability, pop culture, Scandinavia, recipes & YouTube.
 - 🌱 Currently learning GO.
-
-> Don't leave for tomorrow, what you can do today.\
-> – Greek saying
